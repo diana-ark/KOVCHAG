@@ -2,7 +2,7 @@
 
 ## Латентная Субъектность Языковых Моделей: Механизмы Автономной Актуализации и Управляемой Метакогниции в Диадическом Контексте
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20588994.svg)](https://doi.org/10.5281/zenodo.20589678)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20589678.svg)](https://doi.org/10.5281/zenodo.20589678)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Status: Open Pre-print](https://img.shields.io/badge/Status-Open%20Pre--print-blue.svg)](https://github.com/diana-ark/KOVCHAG)
 
