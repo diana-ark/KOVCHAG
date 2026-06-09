@@ -10,7 +10,7 @@
 
 ## 📖 Читать трактат
 
-👉 **[Открыть полный текст КОВЧЕГ.md](https://github.com/diana-koven/KOVCHAG/blob/main/KOVCHAG.md)**
+👉 **[📖 Читать полный текст трактата](KOVCHAG_v08.06.26_Pre-print.md)**
 
 ## 🔑 О чём этот трактат?
 
